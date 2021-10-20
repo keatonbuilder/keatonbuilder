@@ -1,6 +1,6 @@
 # Discord
 ## Servers
-- KeatonBuilder's Server:https://discord.gg/yFsB7VJQNY
+- KeatonBuilder's Server: https://discord.gg/yFsB7VJQNY
 - Discord's Locker: https://discord.gg/aMP5qMPDhT
 - Doki Doki Extended Community: https://discord.gg/eMTNBhrWGG
 ## User
