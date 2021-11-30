@@ -4,7 +4,7 @@
 - Discord's Locker: https://discord.gg/aMP5qMPDhT
 - Doki Doki Extended Community: https://discord.gg/eMTNBhrWGG
 ## User
-- Keaton#1111
+- Keaton#1000
 # Youtube
 - Main: https://www.youtube.com/channel/UCUy7q41uv2OUlAeaEmJPXbA
 - Secondary: https://www.youtube.com/channel/UCPxC8xRa7_UU1JrIonnLqKQ
@@ -19,8 +19,6 @@
 - Main: https://www.tiktok.com/@keatonbuilds
 - Twitch Clips: https://www.tiktok.com/@keatonstreams
 - Backup: https://www.tiktok.com/@keatonbuilds2
-# Reddit
-- https://www.reddit.com/user/memesarethebest2
 # Roblox
 - Group: https://www.roblox.com/groups/3431559/Keatons-Group#!/about
 - Account: https://www.roblox.com/users/211183303/profile
