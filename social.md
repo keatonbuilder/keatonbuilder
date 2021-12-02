@@ -2,7 +2,6 @@
 Here is all of my social media!
 # Discord
 - [Server Link](https://discord.gg/yFsB7VJQNY)
----- OR ----
 - Keaton#1000
 
 # Youtube
