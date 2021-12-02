@@ -1,3 +1,5 @@
+# Social Media
+Here is all of my social media!
 # Discord
 ## Server
 - https://discord.gg/yFsB7VJQNY
