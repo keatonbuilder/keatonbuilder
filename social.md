@@ -13,8 +13,10 @@ Here is all of my social media!
 
 # Twitter
 - [@KeatonBuilder](https://twitter.com/keatonbuilder)
+- [@KeatonsFeed](https://twitter.com/keatonsfeed)
 # Twitch
 - [KeatonBuilderTwitch](https://twitch.tv/KeatonBuilderTwitch)
+- [KeatonBuilderTwitch2](https://twitch.tv/KeatonBuilderTwitch2)
 # TikTok
 - [@keatonbuilds](https://www.tiktok.com/@keatonbuilds)
 - [@keatonstreams](https://www.tiktok.com/@keatonstreams)
