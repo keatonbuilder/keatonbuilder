@@ -1,9 +1,9 @@
 # Discord Nicknames
 
 ## Table of contents
-[Windows & Mac](https://keatonbuilder.github.io/keatonbuilder/nickname#windows-and-mac)
+[Windows & Mac](#windows-and-mac)
 
-[Android & iOS](https://keatonbuilder.github.io/keatonbuilder/nickname#android-and-ios)
+[Android & iOS](#android-and-ios)
 
 ## Windows and Mac
 
