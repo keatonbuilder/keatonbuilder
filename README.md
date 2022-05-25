@@ -1,3 +1,5 @@
+This website is set to be changed soon.
+
 - 👋 **Hi, I’m KeatonBuilder**
 - 👀 **I’m interested in Visul Novels & Discord Bots**
 - 🌱 **I’m currently learning Ren'Py and Python**
