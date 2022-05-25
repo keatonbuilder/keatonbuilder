@@ -1,7 +1,3 @@
----
-permalink: /nickname.html
----
-
 # Discord Nicknames
 
 ## Table of contents
