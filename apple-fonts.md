@@ -1,3 +1,7 @@
+---
+permalink: /apple-fonts.html
+---
+
 # Apple Fonts
 ## Notice
 These are files you are downloading to your computer. Please do proceed with caution.
